@@ -1,0 +1,14 @@
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\bin\Debug\net8.0\cursocsharp5.exe
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\bin\Debug\net8.0\cursocsharp5.deps.json
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\bin\Debug\net8.0\cursocsharp5.runtimeconfig.json
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\bin\Debug\net8.0\cursocsharp5.dll
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\bin\Debug\net8.0\cursocsharp5.pdb
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.AssemblyInfo.cs
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.dll
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\refint\cursocsharp5.dll
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.pdb
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\cursocsharp5.genruntimeconfig.cache
+C:\Users\Justin\source\repos\cursocsharp5\cursocsharp5\obj\Debug\net8.0\ref\cursocsharp5.dll
