@@ -1,0 +1,4 @@
+C:\Users\Justin\source\repos\cursocsharp7\cursocsharp7\obj\Debug\net8.0\cursocsharp7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\source\repos\cursocsharp7\cursocsharp7\obj\Debug\net8.0\cursocsharp7.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\cursocsharp7\cursocsharp7\obj\Debug\net8.0\cursocsharp7.AssemblyInfo.cs
+C:\Users\Justin\source\repos\cursocsharp7\cursocsharp7\obj\Debug\net8.0\cursocsharp7.csproj.CoreCompileInputs.cache

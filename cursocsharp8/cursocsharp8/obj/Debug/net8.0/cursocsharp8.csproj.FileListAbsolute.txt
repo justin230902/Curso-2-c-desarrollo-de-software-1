@@ -1,0 +1,14 @@
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\bin\Debug\net8.0\cursocsharp8.exe
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\bin\Debug\net8.0\cursocsharp8.deps.json
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\bin\Debug\net8.0\cursocsharp8.runtimeconfig.json
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\bin\Debug\net8.0\cursocsharp8.dll
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\bin\Debug\net8.0\cursocsharp8.pdb
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.AssemblyInfo.cs
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.dll
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\refint\cursocsharp8.dll
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.pdb
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\cursocsharp8.genruntimeconfig.cache
+C:\Users\Justin\source\repos\cursocsharp8\cursocsharp8\obj\Debug\net8.0\ref\cursocsharp8.dll
